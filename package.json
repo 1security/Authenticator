@@ -40,7 +40,7 @@
   },
   "dependencies": {
     "argon2-browser": "^1.15.3",
-    "crypto-js": "^3.1.9-1",
+    "crypto-js": "^3.3.0",
     "qrcode-generator": "^1.4.3",
     "qrcode-reader": "^1.0.4",
     "uuid": "^3.3.3",
